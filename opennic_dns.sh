@@ -23,15 +23,15 @@ if  [ -f "/tmp/ipv4" ] && [ -f "/tmp/ipv6" ]; then
     
     # Syntax checking
     dnsmasq --test
-   
+
     # Check if syntax check was OK
-    if [ $? -ne 0 ];then 
+    if [ $? -ne 0 ];then
       exit 1
     fi
 
     # Restart dns
     pihole restartdns
-     
+
 fi
 
 rm -rf /tmp/ipv4 /tmp/ipv6 /tmp/ip
