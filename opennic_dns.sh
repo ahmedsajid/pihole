@@ -35,4 +35,3 @@ if  [ -f "/tmp/ipv4" ] && [ -f "/tmp/ipv6" ]; then
 fi
 
 rm -rf /tmp/ipv4 /tmp/ipv6 /tmp/ip
-
