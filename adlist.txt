@@ -59,3 +59,4 @@ upgrade.scdn.co
 beta.spotify.map.fastly.net
 prod.spotify.map.fastlylb.net
 f5.video-ak.cdn.spotify.com
+osb-ussvc.samsungqbe.com
