@@ -1,3 +1,4 @@
+# Copied from https://github.com/fireeye/sunburst_countermeasures/blob/main/indicator_release/Indicator_Release_NBIs.csv
 deftsecurity.com
 freescanonline.com
 thedoccloud.com
