@@ -46,6 +46,7 @@ rd.samsungadhub.com
 samsungads.com
 sas.samsungcloudsolution.com
 sca.samsung.com
+scs.samsungqbe.com
 sso.internetat.tv
 static.exdynsrv.com
 sto3-accesspoint-a88.sto3.spotify.net
