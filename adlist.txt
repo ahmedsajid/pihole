@@ -2,6 +2,7 @@ ad.samsungadhub.com
 ads.samsungads.com
 ads.servebom.com
 analytics.plex.tv
+api.perfalytics.com
 az43064.vo.msecnd.net
 beta.spotify.map.fastly.net
 coordinator-production-28516768.us-east-1.elb.amazonaws.com
