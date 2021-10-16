@@ -52,6 +52,7 @@ scs.samsungqbe.com
 sso.internetat.tv
 static.exdynsrv.com
 sto3-accesspoint-a88.sto3.spotify.net
+sw.team.ai
 syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
 test.samsungrm.net
