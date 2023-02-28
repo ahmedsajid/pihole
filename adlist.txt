@@ -47,6 +47,7 @@ prov.samsungcloudsolution.com
 rd.samsungadhub.com
 samsungads.com
 sas.samsungcloudsolution.com
+sastv.samsungqbe.com
 sca.samsung.com
 scs.samsungqbe.com
 sso.internetat.tv
