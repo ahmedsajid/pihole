@@ -70,3 +70,4 @@ www.samsungotn.net
 www.samsungrm.net
 www.spotify-desktop.com
 xpu.samsungelectronics.com
+us.telemetry.zoom.us
