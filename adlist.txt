@@ -71,3 +71,4 @@ www.samsungrm.net
 www.spotify-desktop.com
 xpu.samsungelectronics.com
 us.telemetry.zoom.us
+us-api.samsungpositioning.com
